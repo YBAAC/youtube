@@ -182,10 +182,10 @@ var (
 	// AndroidClient, download go brrrrrr.
 	AndroidClient = clientInfo{
 		name:           "ANDROID",
-		version:        "18.11.34",
+		version:        "18.43.39",
 		key:            "AIzaSyA8eiZmM1FaDVjRy-df2KTyQ_vz_yYM39w",
-		userAgent:      "com.google.android.youtube/18.11.34 (Linux; U; Android 11) gzip",
-		androidVersion: 30,
+		userAgent:      "com.google.android.youtube/18.43.39 (Linux; U; Android 11) gzip",
+		androidVersion: 32,
 	}
 
 	// EmbeddedClient, not really tested.
